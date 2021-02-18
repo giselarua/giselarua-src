@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- International Economics
+- International MMMMMMMMMM Economics
 - Macroeconomics
 - Economic History
 
